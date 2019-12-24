@@ -10,7 +10,7 @@ Input : 35
 ## Run
 
 ```bash
-$git clone https://github.com/orhantgrl/draw-a-house.git
-$cd draw-a-house/cmake-build-debug
-$./draw_a_house
+$ git clone https://github.com/orhantgrl/draw-a-house.git
+$ cd draw-a-house/cmake-build-debug
+$ ./draw_a_house
 ```
