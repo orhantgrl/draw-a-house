@@ -1,5 +1,10 @@
 #include <stdio.h>
 
+/**
+ * @author orhantgrl
+ * @date Tue Dec 24
+ */
+
 void print_house(int house_weight);
 
 void print_roof(int roof_height);
@@ -10,10 +15,6 @@ int round_number(float num) {
     return num < 0 ? num - 0.5 : num + 0.5;
 }
 
-/**
- * @author orhantgrl
- * @date Tue Dec 24
- */
 static const int HOUSE_WEIGHT = 35;
 
 int main() {
