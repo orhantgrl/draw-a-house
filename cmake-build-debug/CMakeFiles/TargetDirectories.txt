@@ -1,0 +1,3 @@
+/home/tugrul/CLionProjects/draw-a-house/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/tugrul/CLionProjects/draw-a-house/cmake-build-debug/CMakeFiles/draw_a_house.dir
+/home/tugrul/CLionProjects/draw-a-house/cmake-build-debug/CMakeFiles/edit_cache.dir

@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/draw_a_house.dir/main.c.o  -o draw_a_house 
