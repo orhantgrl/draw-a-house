@@ -13,7 +13,6 @@ int round_number(float num) {
 /**
  * @author orhantgrl
  * @date Tue Dec 24
- * @copyright Orhan Tugrul © 2019-2020
  */
 static const int HOUSE_WEIGHT = 35;
 
